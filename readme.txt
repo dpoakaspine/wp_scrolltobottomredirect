@@ -1,5 +1,5 @@
 === WP ScrollToBottomAndRedirect ===
-Donate link: http://agentur-zoom.info/
+Donate link: http://netzstoffi.de
 Tags: user, redirect, home, single
 Requires at least: 3.0.1
 Tested up to: 4.3
